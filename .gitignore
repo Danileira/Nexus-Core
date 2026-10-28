@@ -1,0 +1,14 @@
+# Python / Flask
+venv/
+__pycache__/
+*.pyc
+instance/
+
+# Node / React
+nexus-frontend/node_modules/
+nexus-frontend/dist/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+.vscode/
